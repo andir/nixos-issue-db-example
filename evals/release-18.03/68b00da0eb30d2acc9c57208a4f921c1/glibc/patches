@@ -1,0 +1,10 @@
+2.26-75.patch.gz
+2.26-75to115.diff.gz
+2.26-115to131.diff.gz
+rpcgen-path.patch
+nix-locale-archive.patch
+dont-use-system-ld-so-cache.patch
+dont-use-system-ld-so-preload.patch
+fix_path_attribute_in_getconf.patch
+allow-kernel-2.6.32.patch
+fix-x64-abi.patch
