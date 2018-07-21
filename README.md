@@ -1,7 +1,3 @@
-# Example output repo
-
-
-```
 .
 ├── evals
 │   └── release-18.03
@@ -363,301 +359,300 @@
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── djbdns -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/djbdns
+│   │               └── djbdns -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/djbdns
 │   ├── CVE-2012-4409
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── mcrypt -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/mcrypt
+│   │               └── mcrypt -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/mcrypt
 │   ├── CVE-2012-4433
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── gegl -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/gegl
+│   │               └── gegl -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/gegl
 │   ├── CVE-2012-4552
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── plib -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/plib
+│   │               └── plib -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/plib
 │   ├── CVE-2012-6687
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── fcgi -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/fcgi
+│   │               └── fcgi -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/fcgi
 │   ├── CVE-2013-4122
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── cyrus_sasl -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/cyrus_sasl
+│   │               └── cyrus_sasl -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/cyrus_sasl
 │   ├── CVE-2013-4420
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── libtar -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/libtar
+│   │               └── libtar -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/libtar
 │   ├── CVE-2014-0466
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── a2ps -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/a2ps
+│   │               └── a2ps -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/a2ps
 │   ├── CVE-2014-0470
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── super -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/super
+│   │               └── super -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/super
 │   ├── CVE-2014-2285
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── net_snmp -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/net_snmp
+│   │               └── net_snmp -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/net_snmp
 │   ├── CVE-2014-2524
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── readline62 -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/readline62
+│   │               └── readline62 -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/readline62
 │   ├── CVE-2014-2886
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── gksu -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/gksu
+│   │               └── gksu -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/gksu
 │   ├── CVE-2014-3618
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── procmail -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/procmail
+│   │               └── procmail -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/procmail
 │   ├── CVE-2014-8123
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── antiword -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/antiword
+│   │               └── antiword -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/antiword
 │   ├── CVE-2014-9636
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               ├── unzip -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/unzip
-│   │               └── unzipNLS -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/unzipNLS
+│   │               ├── unzip -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/unzip
+│   │               └── unzipNLS -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/unzipNLS
 │   ├── CVE-2015-0848
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── libwmf -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/libwmf
+│   │               └── libwmf -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/libwmf
 │   ├── CVE-2015-0852
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── freeimage -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/freeimage
+│   │               └── freeimage -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/freeimage
 │   ├── CVE-2015-4047
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── ipsecTools -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/ipsecTools
+│   │               └── ipsecTools -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/ipsecTools
 │   ├── CVE-2015-8327
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               ├── foomatic_filters -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/foomatic_filters
-│   │               └── foomatic-filters -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/foomatic-filters
+│   │               ├── foomatic_filters -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/foomatic_filters
+│   │               └── foomatic-filters -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/foomatic-filters
 │   ├── CVE-2015-8836
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── fuseiso -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/fuseiso
+│   │               └── fuseiso -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/fuseiso
 │   ├── CVE-2015-8863
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── jq -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/jq
+│   │               └── jq -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/jq
 │   ├── CVE-2015-8869
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── ocaml_4_02 -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/ocaml_4_02
+│   │               └── ocaml_4_02 -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/ocaml_4_02
 │   ├── CVE-2016-10091
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── unrtf -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/unrtf
+│   │               └── unrtf -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/unrtf
 │   ├── CVE-2016-4912
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── openslp -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/openslp
+│   │               └── openslp -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/openslp
 │   ├── CVE-2016-5104
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               ├── libimobiledevice -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/libimobiledevice
-│   │               └── libusbmuxd -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/libusbmuxd
+│   │               ├── libimobiledevice -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/libimobiledevice
+│   │               └── libusbmuxd -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/libusbmuxd
 │   ├── CVE-2016-9296
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── p7zip -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/p7zip
+│   │               └── p7zip -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/p7zip
 │   ├── CVE-2017-1000126
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── exiv2 -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/exiv2
+│   │               └── exiv2 -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/exiv2
 │   ├── CVE-2017-1000231
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── ldns -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/ldns
+│   │               └── ldns -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/ldns
 │   ├── CVE-2017-10976
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── swftools -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/swftools
+│   │               └── swftools -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/swftools
 │   ├── CVE-2017-11110
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── catdoc -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/catdoc
+│   │               └── catdoc -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/catdoc
 │   ├── CVE-2017-11164
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── pcre -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/pcre
+│   │               └── pcre -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/pcre
 │   ├── CVE-2017-11550
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── libid3tag -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/libid3tag
+│   │               └── libid3tag -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/libid3tag
 │   ├── CVE-2017-12562
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── libsndfile -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/libsndfile
+│   │               └── libsndfile -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/libsndfile
 │   ├── CVE-2017-12678
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── taglib -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/taglib
+│   │               └── taglib -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/taglib
 │   ├── CVE-2017-12836
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── cvs -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/cvs
+│   │               └── cvs -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/cvs
 │   ├── CVE-2017-13077
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               ├── hostapd -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/hostapd
-│   │               └── wpa_supplicant -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/wpa_supplicant
+│   │               ├── hostapd -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/hostapd
+│   │               └── wpa_supplicant -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/wpa_supplicant
 │   ├── CVE-2017-14159
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── openldap -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/openldap
+│   │               └── openldap -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/openldap
 │   ├── CVE-2017-14166
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── libarchive -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/libarchive
+│   │               └── libarchive -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/libarchive
 │   ├── CVE-2017-14176
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── bazaar -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/bazaar
+│   │               └── bazaar -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/bazaar
 │   ├── CVE-2017-15107
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── dnsmasq -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/dnsmasq
+│   │               └── dnsmasq -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/dnsmasq
 │   ├── CVE-2017-18269
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── glibc -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/glibc
+│   │               └── glibc -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/glibc
 │   ├── CVE-2017-6430
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── ettercap -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/ettercap
+│   │               └── ettercap -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/ettercap
 │   ├── CVE-2017-6827
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── audiofile -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/audiofile
+│   │               └── audiofile -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/audiofile
 │   ├── CVE-2017-7186
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── pcre2 -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/pcre2
+│   │               └── pcre2 -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/pcre2
 │   ├── CVE-2017-7544
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── libexif -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/libexif
+│   │               └── libexif -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/libexif
 │   ├── CVE-2017-8364
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── rzip -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/rzip
+│   │               └── rzip -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/rzip
 │   ├── CVE-2017-8779
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── rpcbind -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/rpcbind
+│   │               └── rpcbind -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/rpcbind
 │   ├── CVE-2018-1000024
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── squid -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/squid
+│   │               └── squid -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/squid
 │   ├── CVE-2018-10289
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── mupdf -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/mupdf
+│   │               └── mupdf -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/mupdf
 │   ├── CVE-2018-10372
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── binutils-unwrapped -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/binutils-unwrapped
+│   │               └── binutils-unwrapped -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/binutils-unwrapped
 │   ├── CVE-2018-10392
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── libvorbis -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/libvorbis
+│   │               └── libvorbis -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/libvorbis
 │   ├── CVE-2018-11202
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── hdf5 -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/hdf5
+│   │               └── hdf5 -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/hdf5
 │   ├── CVE-2018-11469
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── haproxy -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/haproxy
+│   │               └── haproxy -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/haproxy
 │   ├── CVE-2018-6196
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               ├── w3m -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/w3m
-│   │               ├── w3m-batch -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/w3m-batch
-│   │               └── w3m-nox -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/w3m-nox
+│   │               ├── w3m -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/w3m
+│   │               ├── w3m-batch -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/w3m-batch
+│   │               └── w3m-nox -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/w3m-nox
 │   ├── CVE-2018-7169
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               ├── nologin -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/nologin
-│   │               ├── shadow -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/shadow
-│   │               └── su -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/su
+│   │               ├── nologin -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/nologin
+│   │               ├── shadow -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/shadow
+│   │               └── su -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/su
 │   ├── CVE-2018-7263
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── libmad -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/libmad
+│   │               └── libmad -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/libmad
 │   ├── CVE-2018-7339
 │   │   └── refs
 │   │       └── release-18.03
 │   │           └── 68b00da0eb30d2acc9c57208a4f921c1
-│   │               └── mp4v2 -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/mp4v2
+│   │               └── mp4v2 -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/mp4v2
 │   └── CVE-2018-9055
 │       └── refs
 │           └── release-18.03
 │               └── 68b00da0eb30d2acc9c57208a4f921c1
-│                   └── jasper -> /tmp/test/evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/jasper
+│                   └── jasper -> ../../../../../evals/release-18.03/68b00da0eb30d2acc9c57208a4f921c1/jasper
 └── README.md
 
 445 directories, 210 files
-```
