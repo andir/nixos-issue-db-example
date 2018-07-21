@@ -13,10 +13,10 @@ Current features:
 - Provide a list of issues that have been encountered
 - Link each issue to the affected revisions
 - Link each issue to the affected packages
+- Provied backlinks to the issues in each revision. (evals/[rev]/package/[CVE] -> issues/[CVE])
 
 Planned features:
 
-- Provied backlinks to the issues in each revision. (evals/[rev]/package/[CVE] -> issues/[CVE])
 - Store (meta?) data about each CVE in the repository. This allows
   classification (not (yet) fixed, wontfix, not affected, …) and notes to be
   retrieved at a later point.
