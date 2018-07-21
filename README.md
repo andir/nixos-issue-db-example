@@ -1,3 +1,29 @@
+# Nix Issue Database Example
+
+This repository is an example output of a tool that I have been tinkering wit
+for some time now. This repository aims to provide the following properties
+without introducing the need for a "proper" database. The files and the output
+should be parsable using standard shell utilities. Tools that ease the usage
+and/or provide aggregated outputs are very welcome.
+
+
+Current features:
+
+- Store the results of many (all) scans of the nixpkgs repository. (Import pending)
+- Provide a list of issues that have been encountered
+- Link each issue to the affected revisions
+- Link each issue to the affected packages
+
+Planned features:
+
+- Provied backlinks to the issues in each revision. (evals/[rev]/package/[CVE] -> issues/[CVE])
+- Store (meta?) data about each CVE in the repository. This allows
+  classification (not (yet) fixed, wontfix, not affected, …) and notes to be
+  retrieved at a later point.
+
+
+# Example directory tree
+
 .
 ├── evals
 │   └── release-18.03
