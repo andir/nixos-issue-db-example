@@ -1,0 +1,9 @@
+disable-popen.patch
+CVE-2016-7996_CVE-2016-7997.patch
+CVE-2016-7800_part1.patch
+CVE-2016-7800_part2.patch
+CVE-2016-8682.patch
+CVE-2016-8683.patch
+CVE-2016-8684.patch
+CVE-2016-9830.patch
+cmyka-bounds.patch

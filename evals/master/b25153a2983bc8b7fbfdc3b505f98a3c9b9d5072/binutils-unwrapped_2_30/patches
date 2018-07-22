@@ -1,0 +1,7 @@
+new-dtags.patch
+dtneeded.patch
+deterministic.patch
+pt-pax-flags.patch
+no-plugins.patch
+disambiguate-arm-targets.patch
+always-search-rpath.patch

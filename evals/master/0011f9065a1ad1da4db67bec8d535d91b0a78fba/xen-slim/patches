@@ -1,0 +1,17 @@
+0000-fix-ipxe-src.patch
+0000-fix-install-python.patch
+0001-libxl-Spice-image-compression-setting-support-for-up.patch
+0002-libxl-Spice-streaming-video-setting-support-for-upst.patch
+0003-Add-qxl-vga-interface-support-for-upstream-qem.patch
+xsa190-4.5.patch
+xsa191-4.6.patch
+xsa192-4.5.patch
+xsa193-4.5.patch
+xsa195.patch
+xsa196-0001-x86-emul-Correct-the-IDT-entry-calculation-in-inject.patch
+xsa196-0002-x86-svm-Fix-injection-of-software-interrupts.patch
+xsa198.patch
+xsa200-4.6.patch
+xsa202-4.6.patch
+xsa204-4.5.patch
+xsa207.patch

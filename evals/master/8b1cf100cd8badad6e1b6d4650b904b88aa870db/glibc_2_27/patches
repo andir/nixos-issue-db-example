@@ -1,0 +1,7 @@
+rpcgen-path.patch
+nix-locale-archive-2.27.patch
+dont-use-system-ld-so-cache-2.27.patch
+dont-use-system-ld-so-preload.patch
+fix_path_attribute_in_getconf.patch
+allow-kernel-2.6.32.patch
+fix-x64-abi.patch

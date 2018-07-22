@@ -1,0 +1,8 @@
+new-dtags.patch
+dtneeded.patch
+deterministic.patch
+pt-pax-flags.patch
+no-plugins.patch
+readelf-empty-sections.patch
+elf-check-orphan-input.patch
+elf-check-orphan-placement.patch

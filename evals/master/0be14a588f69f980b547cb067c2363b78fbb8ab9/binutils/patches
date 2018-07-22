@@ -1,0 +1,5 @@
+new-dtags.patch
+dtneeded.patch
+deterministic.patch
+pt-pax-flags.patch
+no-plugins.patch

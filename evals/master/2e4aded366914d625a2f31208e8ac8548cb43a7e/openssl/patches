@@ -1,0 +1,2 @@
+nix-ssl-cert-file.patch
+use-etc-ssl-certs.patch

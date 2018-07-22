@@ -1,0 +1,4 @@
+docbook2texi.patch
+symlinks-in-bin.patch
+git-sh-i18n.patch
+ssh-path.patch

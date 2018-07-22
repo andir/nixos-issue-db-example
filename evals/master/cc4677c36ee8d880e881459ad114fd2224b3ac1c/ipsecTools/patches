@@ -1,0 +1,3 @@
+dont-create-localstatedir-during-install.patch
+CVE-2015-4047.patch
+CVE-2016-10396.patch?id=62ac12648a4eb7c5ba5dba0f81998d1acf310d8b

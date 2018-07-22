@@ -1,0 +1,10 @@
+?id=0d42179e1246f996d334c8bd18deca469fdb1add
+?id=df426738fb212d62b132d9bb447f0128194e00ab
+?id=b70d508c50e8e2d2b8fb96ae44ae10f84cf0c1ae
+rebased-v2.6-0001-hostapd-Avoid-key-reinstallation-in-FT-handshake.patch
+rebased-v2.6-0002-Prevent-reinstallation-of-an-already-in-use-group-ke.patch
+rebased-v2.6-0003-Extend-protection-of-GTK-IGTK-reinstallation-of-WNM-.patch
+rebased-v2.6-0004-Prevent-installation-of-an-all-zero-TK.patch
+rebased-v2.6-0005-Fix-PTK-rekeying-to-generate-a-new-ANonce.patch
+rebased-v2.6-0006-TDLS-Reject-TPK-TK-reconfiguration.patch
+rebased-v2.6-0008-FT-Do-not-allow-multiple-Reassociation-Response-fram.patch

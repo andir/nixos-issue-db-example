@@ -1,0 +1,6 @@
+search-path.patch
+nix-store-mtime.patch
+deterministic-build.patch
+properly-detect-curses.patch
+no-ldconfig.patch
+glibc-2.25-enosys.patch

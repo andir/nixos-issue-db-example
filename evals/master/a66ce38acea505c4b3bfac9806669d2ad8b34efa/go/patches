@@ -1,0 +1,6 @@
+remove-tools-1.9.patch
+ssl-cert-file-1.9.patch
+remove-test-pie.patch
+creds-test.patch
+go-1.9-skip-flaky-19608.patch
+go-1.9-skip-flaky-20072.patch

@@ -1,0 +1,9 @@
+new-dtags.patch
+dtneeded.patch
+deterministic.patch
+pt-pax-flags.patch
+no-plugins.patch
+disambiguate-arm-targets.patch
+always-search-rpath.patch
+gold-symbol-visibility.patch
+relax-R_AARCH64_ABS32-R_AARCH64_ABS16-absolute.patch

@@ -1,0 +1,5 @@
+search-path.patch
+nix-store-mtime.patch
+deterministic-build.patch
+properly-detect-curses.patch
+no-ldconfig.patch

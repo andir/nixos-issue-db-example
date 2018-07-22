@@ -1,0 +1,4 @@
+getcwd-chroot.patch
+CVE-2012-0804.patch
+CVE-2017-12836.patch
+vasnprintf-high-sierra-fix.diff

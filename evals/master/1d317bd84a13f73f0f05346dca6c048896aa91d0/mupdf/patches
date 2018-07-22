@@ -1,0 +1,3 @@
+mupdf-1.11-openjpeg-2.1.1.patch
+mupdf-1.11-CVE-2017-6060.patch
+mupdf-1.11-shared_libs-1.patch

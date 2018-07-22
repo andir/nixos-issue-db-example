@@ -1,0 +1,3 @@
+remove-hardcoded-locations.patch
+nulladapter.patch
+fix-36783.patch

@@ -1,0 +1,2 @@
+remove-runtime-dep-on-openssl-headers.patch
+CVE-2017-6508

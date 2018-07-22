@@ -1,0 +1,8 @@
+link-against-ncurses.patch
+no-arch_only.patch
+clang.patch
+readline62-001
+readline62-002
+readline62-003
+readline62-004
+readline62-005

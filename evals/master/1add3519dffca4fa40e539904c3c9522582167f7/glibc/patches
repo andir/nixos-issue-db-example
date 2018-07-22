@@ -1,0 +1,6 @@
+rpcgen-path.patch
+nix-locale-archive.patch
+dont-use-system-ld-so-cache.patch
+dont-use-system-ld-so-preload.patch
+glibc-crypt-blowfish.patch
+fix_path_attribute_in_getconf.patch

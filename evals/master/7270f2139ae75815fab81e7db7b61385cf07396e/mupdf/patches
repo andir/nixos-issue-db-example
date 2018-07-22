@@ -1,0 +1,4 @@
+mupdf-1.12-openjpeg-version.patch
+CVE-2018-6544.1.patch
+CVE-2018-6544.2.patch
+mupdf-1.12-shared_libs-1.patch
